@@ -42,9 +42,10 @@
             <article>
                 <h2>Nuestro Equipo</h2>
                 <ul>
-                    <li><strong>Desarrollador 1:</strong> Frontend</li>
-                    <li><strong>Desarrollador 2:</strong> Backend</li>
-                    <li><strong>Desarrollador 3:</strong> Diseño UI/UX</li>
+                    <li><strong>Disana berrospi nieto </strong>apsti</li>
+                    <li><strong>isabel cruz alvarez</strong> apsti</li>
+                    <li><strong>liz palma roman </strong> apsti</li>
+                     <li><strong>sadit flores santiago </strong> apsti</li>
                 </ul>
             </article>
         </section>
