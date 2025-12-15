@@ -83,7 +83,7 @@ form {
 
 label {
     font-weight: bold;
-    color: #1a2332;
+    color: #3de114;
 }
 
 input, textarea {
@@ -115,7 +115,7 @@ button:hover {
 
 /* Footer */
 footer {
-    background-color: #1a2332;
+    background-color: #06c6a6;
     color: white;
     text-align: center;
     padding: 1rem;
@@ -134,4 +134,124 @@ footer {
         gap: 0.5rem;
         text-align: center;
     }
+    /*estilos de register*/
+}
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #06cdc3;
+    color: #0ac28b;
+}
+
+/* HEADER */
+.header {
+    background: #e15979;
+    color: white;
+    padding: 10px 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo {
+    width: 60px;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+nav a {
+    color: rgb(143, 6, 6);
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav a:hover,
+nav a.active {
+    text-decoration: underline;
+}
+
+/* FORMULARIO */
+.register {
+    display: flex;
+    justify-content: center;
+    margin: 40px 0;
+}
+
+.form-container {
+    display: flex;
+    background: rgb(14, 142, 202);
+    width: 900px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(16, 41, 234, 0.867);
+    overflow: hidden;
+}
+
+.form-image {
+    background: #e9f2ff;
+    width: 40%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.form-image img {
+    width: 90%;
+}
+
+form {
+    width: 60%;
+    padding: 30px;
+}
+
+form h1 {
+    color: #a0de1c;
+    margin-bottom: 20px;
+}
+
+label {
+    font-weight: bold;
+    color: #f40a26;
+    margin-top: 10px;
+    display: block;
+}
+
+input, select {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+input:focus, select:focus {
+    border-color: #0d6efd;
+    outline: none;
+}
+
+button {
+    background: #0d6efd;
+    color: white;
+    border: none;
+    padding: 12px;
+    margin-top: 20px;
+    width: 100%;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #0acd6f;
+}
+
+/* FOOTER */
+footer {
+    text-align: center;
+    background: #f0efee;
+    color: rgba(255, 255, 255, 0.838);
+    padding: 10px;
 }
