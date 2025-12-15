@@ -48,7 +48,7 @@
     </main>
 
     <footer>
-        <p>&copy; 2024 Proyecto Web Colaborativo</p>
+        <p>&copy; 2025 Proyecto Web Colaborativo</p>
     </footer>
 
     <script src="js/funciones.js"></script>

@@ -42,10 +42,10 @@
             <article>
                 <h2>Nuestro Equipo</h2>
                 <ul>
-                    <li><strong>Disana berrospi nieto </strong>apsti</li>
-                    <li><strong>isabel cruz alvarez</strong> apsti</li>
-                    <li><strong>liz palma roman </strong> apsti</li>
-                     <li><strong>sadit flores santiago </strong> apsti</li>
+                    <li><strong>Disana Berrospi Nieto </strong>"apsti"</li>
+                    <li><strong>Isabel Cruz Alvarez</strong> "apsti"</li>
+                    <li><strong>Liz Palma Roman </strong> "apsti"</li>
+                     <li><strong>Sadit Flores Santiago </strong> "apsti"</li>
                 </ul>
             </article>
         </section>
@@ -53,7 +53,7 @@
 
     <footer class="footer">
         <div class="container">
-            <p>&copy; 2024 Proyecto Web Colaborativo. Todos los derechos reservados.</p>
+            <p>&copy; 2025 Proyecto Web Colaborativo. Todos los derechos reservados.</p>
         </div>
     </footer>
 
