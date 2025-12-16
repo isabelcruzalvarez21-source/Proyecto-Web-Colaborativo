@@ -35,7 +35,7 @@
             <p>Somos un equipo de desarrolladores dedicados a la creación de una plataforma web funcional mediante metodologías colaborativas.</p>
 
             <article>
-                <h2>Nuestra Misión</h2>
+                <h2>de aqui a 2030</h2>
                 <p>Desarrollar soluciones web eficientes utilizando buenas prácticas, tecnologías modernas y trabajo en equipo.</p>
             </article>
 
