@@ -25,9 +25,9 @@
             
             <div class="contact-info">
                 <h2>Información de Contacto</h2>
-                <p><strong>Email:</strong> contacto@proyecto.com</p>
-                <p><strong>Teléfono:</strong> +123 456 7890</p>
-                <p><strong>Dirección:</strong> Calle Principal #123</p>
+                <p><strong>Email:</strong> floressantiagosadit@gmail.com</p>
+                <p><strong>Teléfono:</strong>  +51 933 667 676</p>
+                <p><strong>Dirección:</strong> Jr:Carrion  s/n</p>
             </div>
 
             <div class="contact-form">
