@@ -36,13 +36,13 @@
                     <label for="nombre">Nombre:</label>
                     <input type="text" id="nombre" name="nombre" required>
 
-                    <label for="email">Email:</label>
+                    <label for="email">Correo:</label>
                     <input type="email" id="email" name="email" required>
 
                     <label for="mensaje">Mensaje:</label>
                     <textarea id="mensaje" name="mensaje" rows="5" required></textarea>
 
-                    <button type="submit">Enviar</button>
+                    <button type="submit">Guardar</button>
                 </form>
             </div>
         </section>
