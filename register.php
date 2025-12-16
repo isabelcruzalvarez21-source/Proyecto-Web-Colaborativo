@@ -30,7 +30,7 @@
                 <label for="emailReg">Email:</label>
                 <input type="email" id="emailReg" name="emailReg" required>
 
-                <label for="usuario">Usuario:</label>
+                <label for="usuario">Nombre:</label>
                 <input type="text" id="usuario" name="usuario" required>
 
                 <label for="password">Contraseña:</label>
