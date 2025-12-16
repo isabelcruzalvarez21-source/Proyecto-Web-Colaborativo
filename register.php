@@ -21,7 +21,7 @@
 
     <main>
         <section class="register">
-            <h1>Formulario de Registro</h1>
+            <h1>Registro</h1>
             
             <form id="registerForm">
                 <label for="nombreCompleto">Nombre Completo:</label>
