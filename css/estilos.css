@@ -57,7 +57,7 @@ main {
 
 /* Sections */
 section {
-    background: rgb(182, 5, 5);
+    background: rgb(120, 244, 20);
     padding: 2rem;
     margin: 2rem 0;
     border-radius: 8px;
@@ -65,12 +65,12 @@ section {
 }
 
 h1 {
-    color: #e61150;
+    color: #3af41d;
     margin-bottom: 1rem;
 }
 
 h2 {
-    color: #ff6b6b;
+    color: #16f20b;
     margin: 1.5rem 0 1rem;
 }
 
