@@ -140,7 +140,7 @@ footer {
 body {
     margin: 0;
     font-family: Arial, sans-serif;
-    background: #3bc444;
+    background: #c43b60;
     color: #333;
 }
 
@@ -215,7 +215,7 @@ form h1 {
 
 label {
     font-weight: bold;
-    color: #0fd74b;
+    color: #ce5409;
     margin-top: 10px;
     display: block;
 }
