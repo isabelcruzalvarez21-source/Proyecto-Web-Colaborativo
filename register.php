@@ -21,7 +21,7 @@
 
     <main>
         <section class="register">
-            <h1>Formulario de Registro</h1>
+            <h1>Registro</h1>
             
             <form id="registerForm">
                 <label for="nombreCompleto">Nombre Completo:</label>
@@ -30,7 +30,7 @@
                 <label for="emailReg">Email:</label>
                 <input type="email" id="emailReg" name="emailReg" required>
 
-                <label for="usuario">Usuario:</label>
+                <label for="usuario">Nombre:</label>
                 <input type="text" id="usuario" name="usuario" required>
 
                 <label for="password">Contraseña:</label>
